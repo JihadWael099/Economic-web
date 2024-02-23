@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+.icon
+{
+   color: black;
+}
+.carousel-caption
+{
+    background-color:rgba(255, 234, 216, 0.474);
+}
+.carousel-indicators button
+{
+    height: 10px !important;
+    width: 10px !important;
+    border-radius: 50% !important;
+    
+}
+.carousel-indicators button:hover
+{
+ background-color: brown;
+}
+.Produsts h2
+{
+    color: hwb(193 0% 44%)  !important;
+}
+.Produsts hr{
+    height: 2px;
+}
+.Produsts .btn
+{
+    width: 70px !important;
+    height: 35px !important;
+   
+    padding: 5px !important;
+    font-size: 15px !important;
+    border: none !important;
+}
+.card button{
+
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    padding: 2px;
+
+    
+}
+.card button:hover
+{
+    background-color: brown;
+}
+.card i:hover{
+background-color: hwb(193 0% 44%) !important;
+cursor: pointer;
+}
